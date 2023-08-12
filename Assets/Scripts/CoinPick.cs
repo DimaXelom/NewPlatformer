@@ -21,7 +21,7 @@ public class CoinPick : MonoBehaviour
         if(_coins==_howMuchCoins)
         {
             SceneLoader();
-        }
+        } 
     }
 
     private void SceneLoader()
